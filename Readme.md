@@ -1,1 +1,1 @@
-This is app for passenger counter.
+This is an app for passenger counter.
