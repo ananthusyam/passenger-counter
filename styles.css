@@ -1,0 +1,47 @@
+body {
+    background-image: url('images/station.jpg');
+    background-size: cover;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    text-align: center;
+    color: chartreuse;
+    
+}
+p {
+    font-size: 35px;
+    color: rgb(255, 0, 0);
+}
+.page {
+    
+    margin: auto;
+    max-width: 80%;
+    
+}
+
+h1 {
+    margin: auto;
+    font-size: 70px;
+}
+h2 {
+    font-size: 60px;
+    margin: 0 0 20px;
+}
+
+button {
+    border: 8px solid;
+    padding: 10px 0;
+    color:white;
+    font-weight: 700;
+    width: 200px;
+    border-radius: 5px;
+
+}
+
+#increment-btn {
+    background: darkred;
+}
+
+#save-btn {
+    background: darkgreen;
+}
+
